@@ -93,7 +93,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **TIME WAVEFORM**
 
-![Screenshot 2024-10-29 104210](https://github.com/user-attachments/assets/dd3ccd75-e550-4bd6-9112-0326a861ff0d)
+![Screenshot 2024-11-22 112850](https://github.com/user-attachments/assets/85db5974-8cbf-4075-b5ab-f1694c67d490)
+
 
 **Result:**
         The basic logic gates are studied and the truth tables are verified.
